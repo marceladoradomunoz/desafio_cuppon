@@ -1,0 +1,150 @@
+* {
+    margin: 0pt;
+    padding: 0pt;
+}
+
+.body{
+    top: 0pt;
+    margin: 0pt;
+}
+
+.navbar {
+    background-color: #26a243;
+    border-bottom: white;
+}
+
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28247, 247, 247, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+}
+
+.nav-link {
+    font-size: 15pt;
+    font-family: Roboto, Medium !important;
+}
+
+
+.image {
+    display: flex;
+    width: 278pt;
+    margin-left: -0.8rem;
+}
+
+
+.card-title {
+    font-family: Roboto Light !important;
+    letter-spacing: 0pt;
+}
+
+.card-text_1 {
+    font-family: Roboto, Light !important;
+    color: #707070;
+}
+
+
+.description {
+    top: 358pt;
+    left: 37.17pt;
+    height: 19pt;
+    width: 278pt;
+    font-family: Roboto, Light !important;
+    color: #707070;
+}
+
+
+.direction {
+    top: 379pt;
+    left: 47.17pt;
+    height: 15pt;
+    width: 161pt;
+    font-family: Roboto, Light !important;
+    color: #707070;
+    opacity: 100%;
+}
+
+
+.text-price {
+    top: 425pt;
+    left: 134pt;
+    height: 19pt;
+    width: 57pt;
+    opacity: 100%;
+}
+
+.text-price-ofert {
+    top: 420pt;
+    left: 202pt;
+    height: 24pt;
+    width: 74pt;
+    opacity: 100%;
+    color: #26a243;
+}
+
+
+.color-icon {
+    color: #707070;
+}
+
+.icon-ubicacion {
+    width: 9.2pt;
+}
+
+.card-text {
+    top: 358pt;
+    left: 37.17pt;
+    height: 19pt;
+    width: 140pt;
+}
+
+.rectangulo-formulario {
+    top: 2551pt;
+    height: 241pt;
+}
+
+.propiedades {
+    top: 2551pt;
+    left: 0pt;
+    height: 241pt;
+    background-color: #26a243;
+}
+
+.text-formulario {
+    display: flex;
+    top: 2576pt;
+    left: 26pt;
+    height: 24pt;
+    width: 268pt;
+}
+
+.email {
+    font-size: 16pt;
+}
+
+.propiedades-footer {
+    top: 2551pt;
+    left: 0pt;
+    height: 241pt;
+    width: 1300pt;
+}
+
+.footer-propiedades {
+    top: 2551;
+    left: 0pt;
+    height: 241pt;
+    width: 1300pt;
+}
+
+.logo-footer {
+    top: 2816pt;
+    left: 119pt;
+    height: 24pt;
+    width: 82pt;
+}
+
+.text-footer {
+    top: 2850pt;
+    left: 21pt;
+    height: 38pt;
+    font-family: Roboto, Light !important;
+    color: #707070;
+}
